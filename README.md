@@ -9,7 +9,6 @@ This is the admin workspace for my Recycle Hub project. It gives authorised admi
 - Managing the operational side of buyers, sellers, and listings
 - Keeping administrative workflows separate from the public marketplace
 
-The portal uses the shared API in [`../Recycle-Hub-Backend`](../Recycle-Hub-Backend). The public marketplace is in [`../Recycle-Hub-Frontend`](../Recycle-Hub-Frontend).
 
 ## Run it locally
 
